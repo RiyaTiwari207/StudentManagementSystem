@@ -1,0 +1,5 @@
+Student Management System
+Student ID: 101
+Name: Riya
+Course: B.Tech
+Semester: 3
