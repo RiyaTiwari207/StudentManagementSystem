@@ -141,7 +141,7 @@ javac -cp "lib/mysql-connector-j-26.7.0.jar" *.java
 
 Run the project:
 
-java -cp ".;lib/mysql-connector-j-26.7.0.jar" Main
+java -cp ".:lib/mysql-connector-j-26.7.0.jar" Main
 
 Run the project on Linux/macOS:
 
